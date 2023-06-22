@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Full Stack Developer Resume</title>
-	<style>
-		body {
-			font-family: Arial, sans-serif;
-			margin: 0;
-			padding: 0;
-		}
-		h1 {
-			font-size: 2.5em;
-			margin-bottom: 0;
-		}
-		h2 {
-			font-size: 1.5em;
-			margin-top: 0;
-		}
-		section {
-			padding: 20px;
-			border-bottom: 1px solid #ccc;
-		}
-		ul {
-			margin: 0;
-			padding: 0;
-			list-style: none;
-		}
-		li {
-			margin-bottom: 10px;
-		}
-	</style>
-</head>
 <body>
 	<header>
 		<h1>Full Stack Developer</h1>
