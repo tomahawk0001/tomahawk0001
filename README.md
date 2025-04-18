@@ -58,14 +58,6 @@
 		</ul>
 	</section>
 	<section>
-		<h2>Projects</h2>
-		<ul>
-			<li>Project Title, Project Description, Technologies Used</li>
-			<li>Project Title, Project Description, Technologies Used</li>
-			<li>Project Title, Project Description, Technologies Used</li>
-		</ul>
-	</section>
-	<section>
 		<h2>References</h2>
 		<p>Available upon request.</p>
 	</section>
